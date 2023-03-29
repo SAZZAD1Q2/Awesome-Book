@@ -48,7 +48,7 @@ addForm.addEventListener('submit', (event) => {
 
 MyBbookList.addEventListener('click', (event) => {
   if (event.target.classList.contains('remove-btn')) {
-    const index = parseInt(event.target.dataset.index, 2);
+    const index = parseInt(event.target.dataset.index, 10);
     removeBook(index);
   }
 });
