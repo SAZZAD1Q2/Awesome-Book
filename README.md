@@ -93,15 +93,16 @@ Browser
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/Awesome-Book.git
 Opent it to your code editor
-open it then.
+open it then to your browser.
 
 
 ### Install
 
 Install this project with:
 Github or git
+npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
