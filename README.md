@@ -132,11 +132,12 @@ Github or git
 
 ## 🤝 Contributing <a name="contributing"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+Contributions are always welcome.
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-If you like this project. please spread it out to your network.
+If you like this project. Give me star. please spread it out to your network.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
