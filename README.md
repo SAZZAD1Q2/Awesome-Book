@@ -132,7 +132,7 @@ Github or git
 
 ## 🤝 Contributing <a name="contributing"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Contributions are always welcome.
+Contributions are always welcome. Feel free to make your issue.
 
 <!-- SUPPORT -->
 
@@ -145,14 +145,6 @@ If you like this project. Give me star. please spread it out to your network.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 I would like to thank Microverse for this inspiration.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
