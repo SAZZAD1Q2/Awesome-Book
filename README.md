@@ -132,7 +132,6 @@ npm install
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 Contributions are always welcome. Feel free to make your issue.
 
 <!-- SUPPORT -->
