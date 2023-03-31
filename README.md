@@ -28,7 +28,7 @@
 
 # 📖 Portfolio <a name="Portfolio"></a>
 
-> I make this with the help instraction of Microverse. In this project I create book list website dinamically.
+> It is a awesome book project. I make this with the help instraction of Microverse. In this project I create book list website dinamically. one can add and remove book and it's authon here.
 
 **Portfolio** is a Microverse assined project. In this project I will apply js DOM manupulation step by step.
 
@@ -68,7 +68,6 @@
 
 - **[HTML]**
 - **[Css]**
-- **[Animation]**
 - **[JavaScript]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,7 +81,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-Git clone https://github.com/SAZZAD1Q2/Portfolio.git
+Git clone https://github.com/SAZZAD1Q2/Awesome-Book.git
 Run in your browser
 
 ### Prerequisites
@@ -102,13 +101,7 @@ open it then.
 ### Install
 
 Install this project with:
-
-Github
-
-
-
-
-
+Github or git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +112,7 @@ Github
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Portfolio)
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Awesome-Book)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad-hossain-054720257/)
 
@@ -133,37 +126,24 @@ Github
 
 - [ ] **[Dom manupulation]**
 - [ ] **[Data storage]**
-- [ ] **[Pop up]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
->
+If you like this project. please spread it out to your network.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
 I would like to thank Microverse for this inspiration.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,15 +155,8 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support <a name="support"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
 ## 📝 License <a name="LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
