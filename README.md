@@ -84,6 +84,7 @@ Run in your browser
 
 In order to run this project you need:
 Git
+An IDE like vs code . bracket etc.
 Code Editor
 Browser
 
@@ -110,8 +111,7 @@ npm install
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Awesome-Book)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad-hossain-054720257/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
