@@ -26,11 +26,11 @@
 
 
 
-# 📖 Portfolio <a name="Portfolio"></a>
+# 📖 Awesome Book <a name="Awesome Book"></a>
 
-> I make this with the help instraction of Microverse. In this project I create book list website dinamically.
+> It is a awesome book project. I make this with the help instraction of Microverse. In this project I create book list website dinamically. one can add and remove book and it's authon here.
 
-**Portfolio** is a Microverse assined project. In this project I will apply js DOM manupulation step by step.
+**Awesome Book** is a Microverse assined project. In this project I will apply js DOM manupulation step by step.
 
 ## 🛠 Built With <a name="built-with"></a>
 <li>Html</li>
@@ -68,12 +68,7 @@
 
 - **[HTML]**
 - **[Css]**
-- **[Animation]**
 - **[JavaScript]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,33 +77,29 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-Git clone https://github.com/SAZZAD1Q2/Portfolio.git
+Git clone https://github.com/SAZZAD1Q2/Awesome-Book.git
 Run in your browser
 
 ### Prerequisites
 
 In order to run this project you need:
 Git
+An IDE like vs code . bracket etc.
 Code Editor
 Browser
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/Awesome-Book.git
 Opent it to your code editor
-open it then.
+open it then to your browser.
 
 
 ### Install
 
 Install this project with:
-
-Github
-
-
-
-
-
+Github or git
+npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,9 +110,8 @@ Github
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Portfolio)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad-hossain-054720257/)
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Awesome-Book)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,57 +123,31 @@ Github
 
 - [ ] **[Dom manupulation]**
 - [ ] **[Data storage]**
-- [ ] **[Pop up]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-
-
+Contributions are always welcome. Feel free to make your issue.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
->
+If you like this project. Give me star. please spread it out to your network.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
 I would like to thank Microverse for this inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⭐️ Show your support <a name="support"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
 ## 📝 License <a name="LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
