@@ -1,7 +1,3 @@
-
-
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -24,8 +20,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
-
 # 📖 Awesome Book <a name="Awesome Book"></a>
 
 > It is a awesome book project. I make this with the help instraction of Microverse. In this project I create book list website dinamically. one can add and remove book and it's authon here.
@@ -33,12 +27,12 @@
 **Awesome Book** is a Microverse assined project. In this project I will apply js DOM manupulation step by step.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 <li>Html</li>
 <li>Css</li>
 <li>JavaScript</li>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>HTML</summary>
@@ -65,7 +59,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[HTML]**
 - **[Css]**
 - **[JavaScript]**
@@ -75,7 +68,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 Git clone https://github.com/SAZZAD1Q2/Awesome-Book.git
 Run in your browser
@@ -94,7 +86,6 @@ Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/Aweso
 Opent it to your code editor
 open it then to your browser.
 
-
 ### Install
 
 Install this project with:
@@ -107,19 +98,16 @@ npm install
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Awesome-Book)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **[Dom manupulation]**
 - [ ] **[Data storage]**
@@ -128,6 +116,11 @@ npm install
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
+
+- GitHub: [@melybee-07](https://github.com/melybee-07)
+- Twitter: [@mazir_melissa](https://twitter.com/mazir_melissa)
+- LinkedIn: [melissa mazir](https://www.linkedin.com/in/melissa-mazir-172574223/)
+
 Contributions are always welcome. Feel free to make your issue.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,6 +128,7 @@ Contributions are always welcome. Feel free to make your issue.
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
+
 If you like this project. Give me star. please spread it out to your network.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,6 +136,7 @@ If you like this project. Give me star. please spread it out to your network.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 I would like to thank Microverse for this inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
