@@ -38,29 +38,30 @@ body {
   width: 120%;
 }
 
+.remove-btn {
+  position: absolute;
+  padding: 5px 12px;
+  cursor: pointer;
+  left: 70%;
+  margin-top: -12px;
+  margin-left: 12vw;
+  margin-bottom: 10px; /* Add margin-bottom to create space between remove buttons */
+}
+
 #my-book-list > * {
   display: flex;
-  justify-content: center;
   align-items: center;
-  margin-top: 0px;
+  margin-bottom: 10px; /* Increase the margin-top to separate each book details */
   font-size: 21px;
+  padding: 20px;
 }
 
 .by {
-  margin-left: 23px;
+  margin-left: 10px; /* Adjust the margin-left as needed */
 }
 
 .authors {
-  margin-left: 52px;
-}
-
-.remove-btn {
-  position: absolute;
-  /* margin-left: 140px;
-  margin-top: 0;*/
-  padding: 5px 12px;
-  cursor: pointer;
-  left: 90%;
+  margin-left: 10px; /* Adjust the margin-left as needed */
 }
 
 .form-container {
