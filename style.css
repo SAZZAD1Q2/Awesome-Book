@@ -44,6 +44,12 @@ li {
   font-size: 20px;
 }
 
+#dateTime {
+  display: flex;
+  justify-content: right;
+  margin-right: 40px;
+}
+
 .book-section {
   display: none;
 }
