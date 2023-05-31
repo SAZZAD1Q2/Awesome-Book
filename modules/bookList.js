@@ -63,16 +63,7 @@ class MyBookList {
 
   // display
 
-  displayBooks() {
-    this.MyBookList.innerHTML = '';
-    this.books.forEach((book, index) => {
-      const newDiv = document.createElement('div');
 
-      newDiv.innerHTML = `<div>${book.title}</div><div class="by">by</div> <div class="authors">${book.author}</div><div><button data-index="${index}" class="remove-btn">Remove</button></div><div><hr></div>`;
-
-      this.MyBookList.appendChild(newDiv);
-    });
-  }
 }
 
 export default MyBookList;
