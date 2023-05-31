@@ -62,8 +62,6 @@ class MyBookList {
   }
 
   // display
-
-
 }
 
 export default MyBookList;
