@@ -129,10 +129,6 @@ npm install
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-- GitHub: [@melybee-07](https://github.com/melybee-07)
-- Twitter: [@mazir_melissa](https://twitter.com/mazir_melissa)
-- LinkedIn: [melissa mazir](https://www.linkedin.com/in/melissa-mazir-172574223/)
-
 Contributions are always welcome. Feel free to make your issue.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
